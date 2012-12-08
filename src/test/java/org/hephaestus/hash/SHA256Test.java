@@ -1,4 +1,4 @@
-package org.hephaestus.db.encryption;
+package org.hephaestus.hash;
 
 import org.hephaestus.hash.SHA256;
 import org.testng.Assert;
